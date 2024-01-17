@@ -44,4 +44,4 @@ Have questions? Suggestions? Want to say hi? Reach out to me!
 - [Email](mailto:lisasamuelssons@gmail.com)
 - [GitHub](https://github.com/lisaelsi)
 
-Project Link: [https://github.com/yourusername/ResourceKit](https://github.com/lisaelsi/ResourceKit)
+Project Link: [https://github.com/lisaelsi/ResourceKit](https://github.com/lisaelsi/ResourceKit)
